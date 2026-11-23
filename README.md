@@ -14,5 +14,4 @@ This project is developed using Python to analyze a random computer network and 
 
 ## Technologies Used
 
-- Python
-- (add your libraries here, e.g. NetworkX, Matplotlib, multiprocessing)
+- NetworkX, Matplotlib, multiprocessing
